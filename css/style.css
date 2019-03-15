@@ -557,11 +557,11 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 }
 #theme-main-banner .container {position: relative;}
 #theme-main-banner .camera_caption>div {
-  background: transparent;
+  background: white;
   position: absolute;
-  width: 100%;
+  width: 70%;
   z-index: 1;
-  top: 50%;
+  top: 20%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   text-shadow: none;
@@ -1103,11 +1103,13 @@ header.theme-menu-wrapper.menu-style-three.fixed #mega-menu-wrapper .nav>li>a {p
 .two-section-wrapper {background: url(../images/home/shape-3.png) no-repeat center;}
 /*--------------------- Testimonial ---------------------*/
 .testimonial-section {
-  padding: 130px 0 150px 0;
+  padding: 100px 10px 100px 10px;
   position: relative;
   z-index: 9;
-  margin-bottom: 140px;
+  margin-bottom: 100px;
+  margin-top: 40px;
 }
+
 .testimonial-section.bg-image {
   background: url(../images/home/11.jpg) no-repeat center;
   background-size: cover;
